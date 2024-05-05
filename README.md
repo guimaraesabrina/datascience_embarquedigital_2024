@@ -23,9 +23,10 @@ Na segunda sessão, focaremos nas ferramentas indispensáveis para profissionais
 ├── README.md <br>
 ├── images <br>
 └── resources <br>
-- 📂 `001_day_overview`:
-- 📂 `002_day_tools`:
-- 📂 `images`:
-- 📂 `resources`: 
+- 📂 `001_day_overview`: Pasta com slide e outros recursos utilizados na aula introdutória 001, 
+- 📂 `002_day_tools`: Pasta com Jupyter Notebook e outros recursos utilizado na aula prática 002, 
+- 📂 `images`: Pasta com imagens utilizadas para construir os materiais, 
+- 📂 `resources`: Pasta com recursos adicionais sobre Ciência de Dados e Inteligência Artificial, como livros, cursos, artigos, pdfs, e etc. 
+
 # Recursos
 # Roadmap para Ciência de Dados
